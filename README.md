@@ -1,2 +1,2 @@
-# movie-recomendation-system-ml
- Movie Recommendation System using machine learning
+# Movie Recommendation System
+ Movie Recommendation System using cosine similarity function
